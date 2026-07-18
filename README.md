@@ -81,7 +81,5 @@ The dataset contains approximately **50,000 ride records** used for analytical r
 
 Data Analyst | SQL | Power BI | Python | Excel
 
-GitHub: *(Add your GitHub profile link here)*
-
 LinkedIn: *https://www.linkedin.com/in/shahperalikhan/*
 
