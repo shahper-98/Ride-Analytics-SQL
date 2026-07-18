@@ -1,5 +1,10 @@
 # 🚖 Ride-Hailing Analytics SQL Project
 ## 📌 Project Overview
+------------------------
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 This project demonstrates the use of SQL Server to analyze a ride-hailing dataset and generate meaningful business insights. The analysis covers ride performance, revenue trends, payment methods, route popularity, and service performance using SQL queries ranging from basic data exploration to advanced analytical techniques.
 
